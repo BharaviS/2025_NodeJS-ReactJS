@@ -16,7 +16,7 @@ function App() {
     <body style={{ backgroundColor: "#282c34", color: "white", padding: "2rem", fontFamily: "Arial, sans-serif" }}>
       <div style={{ textAlign: "center", marginTop: "2rem" }}>
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>React + Node.js Connection</h1>
+        <h1>React + Node.js Connection Bharavi</h1>
         <p>{message}</p>
       </div>
     </body>
